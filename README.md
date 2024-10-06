@@ -1,8 +1,8 @@
-# caseStudy
+# backtested working strategies:
 
 
 
-**backtested working strategies:**
+**to be backtested in hummingbot:**
 
 
 
