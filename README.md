@@ -16,7 +16,7 @@
   
   
 2  //BTC 5D 5ema Long Setup
-  -
+  
   - Open Long on Close above 5ema
   - Close Long on Close below 5ema
   - 
