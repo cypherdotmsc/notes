@@ -1,8 +1,8 @@
-# insp
+# caseStudy
 
 
 
-*BACKTESTED WORKING STRATEGIES*
+**backtested working strategies:**
 
 
 
